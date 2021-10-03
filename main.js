@@ -37,7 +37,7 @@ function btnDown2() {
 		btn.style.width = "auto";
 		btn.style.height = "auto";
 		setTimeout(function() {
-			window.location.href = "../app/Classroom_SMK_MUHPAcom.wClassroomSMKMUHPA_14335908v0.01.apk";
+			window.location.href = "./Classroom_SMK_MUHPAcom.wClassroomSMKMUHPA_14335908v0.01.apk";
 		}, 2000)
 	}, 10000);
 }
