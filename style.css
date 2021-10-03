@@ -1,0 +1,77 @@
+/* hayo ngapain liat-liat sc nya */
+
+
+body {
+	margin: 0;
+	padding: 0;
+	/*background: rgb(40, 131, 250);*/
+}
+.bg {
+	background: rgb(40, 131, 250);
+	padding: 80px 0 50px;
+}
+.sub-title {
+	color: rgb(40, 131, 250);
+	text-transform: uppercase;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 21px;
+	display: inline-block;
+	margin-top: -100px;
+}
+.font-st {
+	font-size: 12px;
+}
+.container {
+	padding: 0 9% 0;
+	margin: 0;
+	max-width: 120%;
+}
+.logo-img {
+	width: 50px;
+	height: 50px;
+}
+.navbar {
+	background: white;
+}
+.btn-home {
+	background: transparent;
+	border: none;
+	padding: 10px;
+	outline: none;
+	border-right:  2px solid whitesmoke;
+}
+.btn-home > a {
+	outline: none;
+}
+.content-down {
+	text-align: center;
+}
+.content-down {
+	color: white;
+	font-family: sans-serif;
+	height: 300px;
+}
+.btn-down {
+  outline: none;
+	background: white;
+	width: auto;
+	height: 50px;
+	padding: 10px;
+	font-size: 21px;
+	border: none;
+	border-radius: 5px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	color: rgb(40, 131, 250);
+	transition: 0.6s;
+}
+.btn-down:focus {
+	background: transparent;
+	color: white;
+	border: 2px solid white;
+}
+.content {
+	font-family: sans-serif;
+}
